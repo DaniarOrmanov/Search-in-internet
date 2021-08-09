@@ -73,3 +73,5 @@ for doc in vac.find({}):
     print(f'Вакансия №{i}')
     pprint(doc)
     i += 1
+
+    
